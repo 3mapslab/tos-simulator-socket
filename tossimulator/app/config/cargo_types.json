@@ -1,0 +1,1134 @@
+[
+    {
+        "type": "0102",
+        "description": "ANIMAIS VIVOS DE ESPÈCIE BOVINA"
+    },
+    {
+        "type": "0106",
+        "description": "OUTROS ANIMAIS VIVOS."
+    },
+    {
+        "type": "0203",
+        "description": "CARNES DE ANIMAIS DA ESPÉCIE SUÍNA,FRESCAS,REFRIGE"
+    },
+    {
+        "type": "0303",
+        "description": "PEIXE CONGELADO"
+    },
+    {
+        "type": "0304",
+        "description": "FILETES DE PEIXE E DE OUTRA CARNE DE PEIXE,REFRIGE"
+    },
+    {
+        "type": "0305",
+        "description": "PEIXES SECOS,FRESCOS,SALGADOS,DEFUM.,FARINHA DE PE"
+    },
+    {
+        "type": "0305",
+        "description": "BACALHAU SALGADO NÃO SECO NEM DEFUMADO"
+    },
+    {
+        "type": "0306",
+        "description": "CRUSTÁCEOS,VIVOS,FRESCOS,REFRIGERADOS,CONGELADOS:L"
+    },
+    {
+        "type": "0307",
+        "description": "MOLUSCOS,VIVOS,FRESCOS,REFRIG.,CONGELADOS,SECOS:CH"
+    },
+    {
+        "type": "0401",
+        "description": "LEITE"
+    },
+    {
+        "type": "0402",
+        "description": "LEITE E NATA,EM PÓ, GRÂNULOS, C/ OU S/ AÇÚCAR E C/"
+    },
+    {
+        "type": "0403",
+        "description": "LEITELHO,LEITE E NATA COALHADOS,CONCENTRADOS,FERME"
+    },
+    {
+        "type": "0404",
+        "description": "SORO DE LEITE,MESMO ADICIONADO DE AÇÚCAR,OUTROS"
+    },
+    {
+        "type": "0405",
+        "description": "MANTEIGA E OUTRAS MATÉRIAS GORDAS PROVENIENTES DO "
+    },
+    {
+        "type": "0406",
+        "description": "QUEIJO E REQUEIJÃO"
+    },
+    {
+        "type": "0407",
+        "description": "OVOS DE AVES, COM CASCA, FRESCOS, CONSERVADOS OU C"
+    },
+    {
+        "type": "0504",
+        "description": "TRIPA SECA E VERDE"
+    },
+    {
+        "type": "0701",
+        "description": "BATATA DE CONSUMO"
+    },
+    {
+        "type": "0701",
+        "description": "BATATA DE SEMENTE"
+    },
+    {
+        "type": "0703",
+        "description": "CEBOLAS, CHALOTAS, ALHO COMUM, ALHO PORRO, FRESCOS"
+    },
+    {
+        "type": "0708",
+        "description": "ERVILHAS,FEIJÃO,OUTROS LEGUMES DE VAGEM,FRESCOS OU"
+    },
+    {
+        "type": "0711",
+        "description": "AZEITONA"
+    },
+    {
+        "type": "0712",
+        "description": "PRODUTOS HORTÍCULAS SECOS:BATATAS,CEBOLAS,COGUMELO"
+    },
+    {
+        "type": "0713",
+        "description": "FEIJÃO, TREMOÇO, GRÃO-DE-BICO, LENTILHAS, ETC."
+    },
+    {
+        "type": "0801",
+        "description": "COCOS E S/ POLPA, CASTANHA-DO-BRASIL E CASTANHA DE"
+    },
+    {
+        "type": "0802",
+        "description": "FRUTOS DE CASCA RIJA"
+    },
+    {
+        "type": "0803",
+        "description": "BANANAS, FRESCAS OU SECAS"
+    },
+    {
+        "type": "0804",
+        "description": "TÂMARAS,FIGOS,ANANASES OU ABACAXIS,ABACATES,GOIABA"
+    },
+    {
+        "type": "0804",
+        "description": "ANANAS OU ABACAXIS,ABACATES,GOIABAS,MANGAS E MANGO"
+    },
+    {
+        "type": "0810",
+        "description": "FRUTAS FRESCAS"
+    },
+    {
+        "type": "0901",
+        "description": "CAFÉ E SUCEDANEOS"
+    },
+    {
+        "type": "1001",
+        "description": "TRIGO EM GRÃO"
+    },
+    {
+        "type": "1002",
+        "description": "CENTEIO"
+    },
+    {
+        "type": "1003",
+        "description": "CEVADA"
+    },
+    {
+        "type": "1004",
+        "description": "AVEIA"
+    },
+    {
+        "type": "1005",
+        "description": "MILHO EM GRÃO"
+    },
+    {
+        "type": "1006",
+        "description": "ARROZ"
+    },
+    {
+        "type": "1008",
+        "description": "ALPISTA,TRIGO MOURISCO,PAINCO"
+    },
+    {
+        "type": "1101",
+        "description": "FARINHA DE TRIGO"
+    },
+    {
+        "type": "1102",
+        "description": "FARINHAS DE CEREAIS,EXCEPTO DE TRIGO:CENTEIO,MILHO"
+    },
+    {
+        "type": "1103",
+        "description": "GRUMOS,SÊMOLAS DE CEREAIS:DE TRIGO,DE AVEIA,DE MIL"
+    },
+    {
+        "type": "1201",
+        "description": "SOJA"
+    },
+    {
+        "type": "1207",
+        "description": "OUTRAS SEMENTES E FRUTOS OLEAGINOSOS:ALGODÃO,RÍCIN"
+    },
+    {
+        "type": "1214",
+        "description": "FORRAGENS(FARINHA E PELLETES DE LUZERNA,BETERRABAS"
+    },
+    {
+        "type": "1301",
+        "description": "RESINAS,GOMAS RESINAS,GOMA LACA,GOMA ARÁBICA,GOMAS"
+    },
+    {
+        "type": "1507",
+        "description": "ÓLEO DE SOJA E RESPECTIVAS FRACÇÕES,MESMO REFINADO"
+    },
+    {
+        "type": "1509",
+        "description": "AZEITE DE OLIVEIRA"
+    },
+    {
+        "type": "1512",
+        "description": "OLEO DE GIRASSOL,CÁRTAMO,ALGODÃO"
+    },
+    {
+        "type": "1516",
+        "description": "OLEOS E GORDURAS ANIMAIS E VEGETAIS"
+    },
+    {
+        "type": "1517",
+        "description": "MARGARINA, EXCEPTO A LÍQUIDA"
+    },
+    {
+        "type": "1518",
+        "description": "GORDURAS E ÓLEOS ANIMAIS E VEGETAIS,COZIDOS,OXIDAD"
+    },
+    {
+        "type": "1601",
+        "description": "ENCHIDOS E PROD.SEMELHANTES DE CARNE,MIUDEZAS OU S"
+    },
+    {
+        "type": "1602",
+        "description": "OUT.PREPARAÇÕES E CONSERVAS DE CARNE,MIUDEZAS OU S"
+    },
+    {
+        "type": "1604",
+        "description": "CONSERVAS DE PEIXE"
+    },
+    {
+        "type": "1701",
+        "description": "AÇÚCAR EM BRUTO"
+    },
+    {
+        "type": "1701",
+        "description": "AÇÚCAR REFINADO"
+    },
+    {
+        "type": "1703",
+        "description": "MELAÇO"
+    },
+    {
+        "type": "1704",
+        "description": "PRODUTOS DE CONFEITARIA SEM CACAU,GOMAS,CHOCOLATE "
+    },
+    {
+        "type": "1804",
+        "description": "MANTEIGA,GORDURA E ÓLEO DE CACAU"
+    },
+    {
+        "type": "1806",
+        "description": "CHOCOLATE E OUTRAS PREPARAÇÕES ALIMENTÍCIAS QUE CO"
+    },
+    {
+        "type": "1902",
+        "description": "MASSAS ALIMENTÍCIAS COZIDAS E N/COZIDAS(ESPARGUETE"
+    },
+    {
+        "type": "1904",
+        "description": "PRODUTOS À BASE DE CEREAIS(CORN-FLAKES, DE ARROZ)P"
+    },
+    {
+        "type": "1905",
+        "description": "PÃO,TOSTAS,BOLACHAS,BISCOITOS,DOCES"
+    },
+    {
+        "type": "2001",
+        "description": "CONSERVAS DE PRODUTOS HORTÍCULAS,FRUTAS,CONSERVADO"
+    },
+    {
+        "type": "2002",
+        "description": "TOMATES PREPARADOS OU CONSERVADOS,EXCEPTO EM VINAG"
+    },
+    {
+        "type": "2003",
+        "description": "COGUMELOS E TRUFAS PREPARADOS OU CONSERVADOS,EXCEP"
+    },
+    {
+        "type": "2005",
+        "description": "OUT.PROD.HORTÍCULAS CONSERV.EXCEPTO EM VINAGRE:BAT"
+    },
+    {
+        "type": "2007",
+        "description": "DOCES,GELEIAS,PURÉS E PASTAS DE FRUTAS"
+    },
+    {
+        "type": "2009",
+        "description": "SUMOS DE FRUTA OU DE PRODUTOS HORTÍCOLA,SEM ADIÇÃO"
+    },
+    {
+        "type": "2101",
+        "description": "EXTRACTOS,ESSÊNCIAS E CONCENTRADOS DE CAFÉ,CHÁ OU "
+    },
+    {
+        "type": "2103",
+        "description": "PREPARAÇÕES P/ MOLHOS(MOLHO DE SOJA,KETCHUP,MOSTAR"
+    },
+    {
+        "type": "2104",
+        "description": "PREPARAÇÕES ALIMENTÍCIAS P/ CALDOS E SOPAS"
+    },
+    {
+        "type": "2201",
+        "description": "AGUAS MINERAIS"
+    },
+    {
+        "type": "2202",
+        "description": "BEBIDAS N/ ALCOÓLICAS, OUTRAS"
+    },
+    {
+        "type": "2203",
+        "description": "CERVEJA"
+    },
+    {
+        "type": "2204",
+        "description": "VINHO COMUM"
+    },
+    {
+        "type": "2204",
+        "description": "VINHO DA MADEIRA"
+    },
+    {
+        "type": "2204",
+        "description": "VINHO DO PORTO"
+    },
+    {
+        "type": "2208",
+        "description": "BEBIDAS, OUTRAS"
+    },
+    {
+        "type": "2208",
+        "description": "AGUARDENTE, ALCOOL E SEUS PREPARADOS"
+    },
+    {
+        "type": "2208",
+        "description": "WHISKY"
+    },
+    {
+        "type": "2301",
+        "description": "FARINHAS,PÓS,PELLETS DE CARNES,MIUDEZAS,PEIXES,CRU"
+    },
+    {
+        "type": "2309",
+        "description": "PREPARAÇÕES ALIMENTARES P/ANIMAIS(CÃES, GATOS, PEI"
+    },
+    {
+        "type": "2401",
+        "description": "TABACO OU FUMO NÃO MANUFACTURADO;DESPERDÍCIOS DE T"
+    },
+    {
+        "type": "2501",
+        "description": "SAL"
+    },
+    {
+        "type": "2506",
+        "description": "MATERIAS MINERAIS:QUARTZO"
+    },
+    {
+        "type": "2507",
+        "description": "CAULINO"
+    },
+    {
+        "type": "2508",
+        "description": "ARGILAS,BENTONITE"
+    },
+    {
+        "type": "2514",
+        "description": "LOUSA"
+    },
+    {
+        "type": "2515",
+        "description": "MARMORES E TRAVERTINOS,GRANITOS BELGAS E OUT.PEDRA"
+    },
+    {
+        "type": "2516",
+        "description": "GRANITO,PÓRFIRO,BASALTO,ARENITO,EM BLOCOS OU PLACA"
+    },
+    {
+        "type": "2520",
+        "description": "GESSO,GESSO DE CONSTRUÇÃO"
+    },
+    {
+        "type": "2522",
+        "description": "CAL VIVA,CAL APAGADA E CAL HIDRÁULICA"
+    },
+    {
+        "type": "2523",
+        "description": "CIMENTO"
+    },
+    {
+        "type": "2703",
+        "description": "TURFA (INCLUÍDA A TURFA PARA CAMA DE ANIMAIS),MESM"
+    },
+    {
+        "type": "2706",
+        "description": "ALCATRÃO, ASFALTO"
+    },
+    {
+        "type": "2709",
+        "description": "PETROLEO EM BRUTO"
+    },
+    {
+        "type": "2710",
+        "description": "OLEOS LUBRIFICANTES"
+    },
+    {
+        "type": "2710",
+        "description": "GASOLINA"
+    },
+    {
+        "type": "2710",
+        "description": "GASOLEO"
+    },
+    {
+        "type": "2710",
+        "description": "FUEL - OIL"
+    },
+    {
+        "type": "2710",
+        "description": "NAFTA"
+    },
+    {
+        "type": "2710",
+        "description": "PRODUTOS QUIMICOS: WHITE SPIRIT"
+    },
+    {
+        "type": "2710",
+        "description": "PETROLEO REFINADO"
+    },
+    {
+        "type": "2711",
+        "description": "GÁS PROPANO"
+    },
+    {
+        "type": "2711",
+        "description": "GÁS BUTANO"
+    },
+    {
+        "type": "2712",
+        "description": "VASELINA PARAFINA,CERA DE PETRÓLEO,SLACK WAX,CERA "
+    },
+    {
+        "type": "2713",
+        "description": "BETUME DE PETRÓLEO (ASFALTO)"
+    },
+    {
+        "type": "2714",
+        "description": "BETUMES E ASFALTOS NATURAIS;XISTOS E AREIAS BETUMI"
+    },
+    {
+        "type": "2815",
+        "description": "SODA CAUSTICA,LÍXIVIA DE SODA"
+    },
+    {
+        "type": "2827",
+        "description": "CLORETOS,OXICLORETOS:CLORETO DE AMÓNIO,DE CÁLCIO,D"
+    },
+    {
+        "type": "2829",
+        "description": "CLORATOS,PERCLORATOS,BROMATOS,IODATO: DE SÓDIO E O"
+    },
+    {
+        "type": "2835",
+        "description": "FOSFINATOS(HIPOFOSFITOS),FOSFANATOS (FOSFITOS),FOS"
+    },
+    {
+        "type": "2836",
+        "description": "CARBONATO DE CÁLCIO,BÁRIO,AMÓNIO,CHUMBO,POTÁSSIO"
+    },
+    {
+        "type": "2847",
+        "description": "PERÓXIDO DE HIDROGÉNIO ( ÁGUA OXIGENADA )"
+    },
+    {
+        "type": "2849",
+        "description": "CARBONETO DE CÁLCIO"
+    },
+    {
+        "type": "2902",
+        "description": "XILENO"
+    },
+    {
+        "type": "2902",
+        "description": "PARAXILENO"
+    },
+    {
+        "type": "2902",
+        "description": "ORTOXILENO"
+    },
+    {
+        "type": "2902",
+        "description": "C9 (SOLVENTE NAFTA) REFORMADO"
+    },
+    {
+        "type": "2902",
+        "description": "REFINADO (SOLVENTE AROMATICO)"
+    },
+    {
+        "type": "2902",
+        "description": "BENZENO"
+    },
+    {
+        "type": "2902",
+        "description": "HEXANO"
+    },
+    {
+        "type": "2902",
+        "description": "TOLUENO"
+    },
+    {
+        "type": "3003",
+        "description": "MEDICAMENTOS E ADJUVANTES"
+    },
+    {
+        "type": "3004",
+        "description": "MEDICAMENTOS CONTENDO PENICILINAS E OUTROS ANTIBIÓ"
+    },
+    {
+        "type": "3005",
+        "description": "GASES, PENSOS ADESIVOS,PARA USOS CIRÚRGICOS,DENTÁR"
+    },
+    {
+        "type": "3101",
+        "description": "ADUBOS DE ORIGEM ANIMAL OU VEGETAL"
+    },
+    {
+        "type": "3102",
+        "description": "ADUBOS MINERAIS OU QUIMICOS DIVERSOS:UREIA,SULFATO"
+    },
+    {
+        "type": "3206",
+        "description": "DIOXIDO DE TITANIO, LITOPONO"
+    },
+    {
+        "type": "3208",
+        "description": "TINTAS E VERNIZES,À BASE DE POLIÉSTERES,POLÍMEROS "
+    },
+    {
+        "type": "3209",
+        "description": "TINTAS E VERNIZES,À BASE DE POLÍMEROS ACRÍLICOS OU"
+    },
+    {
+        "type": "3210",
+        "description": "OUTRAS TINTAS E VERNIZES UTILIZ.P/ACABAMENTO DE CO"
+    },
+    {
+        "type": "3303",
+        "description": "PERFUMES E ÁGUAS DE COLÓNIA"
+    },
+    {
+        "type": "3304",
+        "description": "PRODUTOS DE BELEZA OU MAQUILLAGEM,P/LÁBIOS,OLHOS"
+    },
+    {
+        "type": "3305",
+        "description": "PREPARAÇÕES CAPILARES:CHAMPÔS,P/PERMANENTES,LACAS "
+    },
+    {
+        "type": "3306",
+        "description": "DENTRÍFICOS,PÓS E CREMES P/FACILITAR A ADERÊNCIA D"
+    },
+    {
+        "type": "3307",
+        "description": "PREPARAÇÕES P/ BARBEAR,DESODORIZANTES,PREP.P/BANHO"
+    },
+    {
+        "type": "3401",
+        "description": "SABÃO"
+    },
+    {
+        "type": "3402",
+        "description": "AGENTES ORGÂNICOS DE SUPERFÍCIE"
+    },
+    {
+        "type": "3406",
+        "description": "VELAS,PAVIOS,CÍRIOS, E ARTIGOS SEMELHANTES"
+    },
+    {
+        "type": "3505",
+        "description": "DEXTRINA, AMIDOS, FÉCULAS MODIFICADOS E COLAS À BA"
+    },
+    {
+        "type": "3506",
+        "description": "COLAS E OUTROS ADESIVOS PREPARADOS"
+    },
+    {
+        "type": "3604",
+        "description": "FOGOS DE ARTIFÍCIO,FOGUETES DE SINALIZAÇÃO,BOMBAS,"
+    },
+    {
+        "type": "3605",
+        "description": "FÓSFOROS, EXCEPTO ARTIGOS DE PIROTECNIA DA POSIÇÃO"
+    },
+    {
+        "type": "3606",
+        "description": "COMBUSTÍVEIS LÍQUIDOS/GASOSOS P/ISQUEIROS OU E ACE"
+    },
+    {
+        "type": "3816",
+        "description": "CIMENTOS,ARGAMASSAS,BETÃO,REFTRACTÁRIOS"
+    },
+    {
+        "type": "3901",
+        "description": "POLÍMEROS DE ETILENO, EM FORMAS PRIMÁRIAS"
+    },
+    {
+        "type": "3902",
+        "description": "POLÍMEROS DE PROPILENO,EM FORMAS PRIMÁRIAS"
+    },
+    {
+        "type": "3903",
+        "description": "POLÍMEROS DE ESTIRENO EM FORMAS PRIMÁRIAS"
+    },
+    {
+        "type": "3904",
+        "description": "POLÍMEROS DE CLORETO DE VINILO,EM FORMAS PRIMÁRIAS"
+    },
+    {
+        "type": "3907",
+        "description": "RESINAS EPÓXIDAS,RESINAS ALQUÍDICAS,POLIÉTER-ALCOO"
+    },
+    {
+        "type": "3909",
+        "description": "RESINAS OREICAS,RESINAS MELAMÍNICAS,RESINAS FENÓLI"
+    },
+    {
+        "type": "3915",
+        "description": "DESPERDICIOS,RESIDUOS,APARAS E OBRAS INUTILIZADAS("
+    },
+    {
+        "type": "3917",
+        "description": "TUBOS E ACESSÓRIOS(JUNTAS,COTOVELOS,FLANGES,UNIÕES"
+    },
+    {
+        "type": "3918",
+        "description": "REVESTIMENTOS DE PLÁSTICO EM MOSAICO P/PAVIMENTOS,"
+    },
+    {
+        "type": "3920",
+        "description": "OUT.CHAPAS,FOLHAS,TIRAS,PELÍCULAS,E LÂMINAS"
+    },
+    {
+        "type": "3921",
+        "description": "CHAPAS,FOLHAS,PELÍCULAS,TIRAS E LÂMINAS DE PLÁSTIC"
+    },
+    {
+        "type": "3923",
+        "description": "ARTIGOS DE TRANSPORTE OU EMBALAGEM DE PLÁSTICO:SAC"
+    },
+    {
+        "type": "3924",
+        "description": "SERVIÇOS DE MESA E OUT.ART.DE USO DOMÉSTICO,DE HIG"
+    },
+    {
+        "type": "3926",
+        "description": "MATÉRIAS PLASTICAS ARTIFICIAIS EM OBRA"
+    },
+    {
+        "type": "4001",
+        "description": "BORRACHA EM BRUTO"
+    },
+    {
+        "type": "4002",
+        "description": "BORRACHA SINTÉTICA EM FORMAS PRIMÁRIAS OU CHAPAS ("
+    },
+    {
+        "type": "4011",
+        "description": "PNEUS, CAMARAS E PROTECTORES"
+    },
+    {
+        "type": "4012",
+        "description": "PNEUMÁTICOS RECAUCHUTADOS OU USADOS, DE BORRACHA"
+    },
+    {
+        "type": "4016",
+        "description": "BORRACHA EM OBRA"
+    },
+    {
+        "type": "4101",
+        "description": "PELES EM BRUTO DE BOVINOS OU EQUÍDEOS,FRESCAS,SALG"
+    },
+    {
+        "type": "4107",
+        "description": "PELES DEPILADAS DE OUTROS ANIMAIS (SUÍNOS,RÉPTEIS,"
+    },
+    {
+        "type": "4402",
+        "description": "CARVÃO VEGETAL"
+    },
+    {
+        "type": "4403",
+        "description": "MADEIRA EM BRUTO"
+    },
+    {
+        "type": "4407",
+        "description": "MADEIRA SERRADA"
+    },
+    {
+        "type": "4408",
+        "description": "FOLHAS P/FOLHEADOS E P/CONTRAPLACADOS E MADEIRA SE"
+    },
+    {
+        "type": "4409",
+        "description": "MADEIRA EM TACOS E FRISOS PARA SOALHOS"
+    },
+    {
+        "type": "4411",
+        "description": "PAINÉIS DE FIBRAS DE MADEIRA OU DE OUTRAS MATÉRIAS"
+    },
+    {
+        "type": "4412",
+        "description": "MADEIRA CONTRAPLACADA OU COMPENSADA,MADEIRA FOLHEA"
+    },
+    {
+        "type": "4415",
+        "description": "PALETES,CAIXOTES,BARRICAS"
+    },
+    {
+        "type": "4418",
+        "description": "OBRAS DE CARPINTARIA P/CONSTUÇÃO: PORTAS,JANELAS,P"
+    },
+    {
+        "type": "4420",
+        "description": "MADEIRA EM OBRA"
+    },
+    {
+        "type": "4421",
+        "description": "OUT.OBRAS DE MADEIRA:CABIDES,CANELAS E BOBINAS,ROL"
+    },
+    {
+        "type": "4501",
+        "description": "CORTIÇA NÃO MANUFACTURADA"
+    },
+    {
+        "type": "4502",
+        "description": "CORTIÇA NATURAL S/ A CROSTA, EM CUBOS,CHAPAS,TIRAS"
+    },
+    {
+        "type": "4503",
+        "description": "CORTIÇA EM OBRA"
+    },
+    {
+        "type": "4504",
+        "description": "CORTIÇA AGLOMERADA E SUAS OBRAS (CUBOS, LADRILHOS,"
+    },
+    {
+        "type": "4707",
+        "description": "PAPEL EM DESPERDICIOS"
+    },
+    {
+        "type": "4802",
+        "description": "CARTÃO E PAPELÃO"
+    },
+    {
+        "type": "4804",
+        "description": "PAPEL E CARTÃO KRAFT EM ROLOS,EM FOLHAS"
+    },
+    {
+        "type": "4816",
+        "description": "PAPEL QUÍMICO,OUTROS PAPÉIS P/CÓPIA,STENCILS,OFFSE"
+    },
+    {
+        "type": "4818",
+        "description": "PAPEL HIGIÉNI.LENÇOS,TOALHAS,GUARDANAPOS,FRALDAS,P"
+    },
+    {
+        "type": "4819",
+        "description": "CAIXAS,SACOS,BOLSAS,CARTUCHOS E OUTRAS EMBALAGENS "
+    },
+    {
+        "type": "4823",
+        "description": "PAPEL"
+    },
+    {
+        "type": "4901",
+        "description": "LIVROS"
+    },
+    {
+        "type": "4911",
+        "description": "IMPRESSOS PUBLICITÁRIOS, CATÁLOGOS COMERCIAIS,GRAV"
+    },
+    {
+        "type": "5201",
+        "description": "ALGODÃO N/ CARDADO NEM PENTEADO"
+    },
+    {
+        "type": "5202",
+        "description": "ALGODÃO: DESPERDICIOS"
+    },
+    {
+        "type": "5205",
+        "description": "FIOS DE ALGODÃO (EXCEPTO LINHAS P/COSTURAR) C/ +85"
+    },
+    {
+        "type": "5206",
+        "description": "FIOS DE ALGODÃO,EXCEPTO LINHAS P/COSTURAR"
+    },
+    {
+        "type": "5207",
+        "description": "ALGODÃO:EM FIO"
+    },
+    {
+        "type": "5208",
+        "description": "ALGODÃO - TECIDOS OUTROS"
+    },
+    {
+        "type": "5209",
+        "description": "TECIDOS DE ALGODÃO COMBINADOS UNICAMENTE COM FIBRA"
+    },
+    {
+        "type": "5210",
+        "description": "TECIDOS DE ALGODÃO:CRUS,BRANQUEADOS,TINTOS,ESTAMPA"
+    },
+    {
+        "type": "5304",
+        "description": "SISAL E OUTRAS FIBRAS TÊXTEIS EM BRUTO(ESTOPAS E D"
+    },
+    {
+        "type": "5307",
+        "description": "FIOS DE JUTA OU DE OUTRAS FIBRAS TÊXTEIS LIBERIANA"
+    },
+    {
+        "type": "5402",
+        "description": "FIOS DE NYLON,POLIESTERES,POLIPROPILENO"
+    },
+    {
+        "type": "5403",
+        "description": "FIOS DE FILAMENTOS ARTIFICIAIS(EXCEPTO LINHAS P/CO"
+    },
+    {
+        "type": "5509",
+        "description": "FIOS - OUTROS"
+    },
+    {
+        "type": "5515",
+        "description": "TECIDOS DE FIBRAS SINTETICAS : OUTROS"
+    },
+    {
+        "type": "5607",
+        "description": "CORDÉIS, CORDAS E CABOS MESMO IMPREGNADOS, REV.BOR"
+    },
+    {
+        "type": "5608",
+        "description": "REDES DE MALHA P/PESCA,OUT.REDES,DE MAT.TÊXTEIS SI"
+    },
+    {
+        "type": "5701",
+        "description": "TAPETES MATÉRIAS TÊXTEIS, DE PONTOS NODADOS/ENROLA"
+    },
+    {
+        "type": "5702",
+        "description": "TAPETES E OUTROS REVEST.P/PAVIMENTOS DE MATÉRIAS T"
+    },
+    {
+        "type": "5703",
+        "description": "TAPETES,REVESTIMENTOS P/PAVIMENTOS DE MATÉRIAS TÊX"
+    },
+    {
+        "type": "6301",
+        "description": "COBERTORES E MANTAS (DE LÃ, FIBRAS SINTÉTICAS, ALG"
+    },
+    {
+        "type": "6302",
+        "description": "ROUPAS DE CAMA, MESA, TOUCADOR, OU COZINHA"
+    },
+    {
+        "type": "6303",
+        "description": "CORTINADOS, CORTINAS E ESTORES, SANEFAS E REPOSTEI"
+    },
+    {
+        "type": "6304",
+        "description": "COLCHAS"
+    },
+    {
+        "type": "6309",
+        "description": "ARTEFACTOS DE MATÉRIAS TÊXTEIS,CALÇADO,CHAPÉUS,USA"
+    },
+    {
+        "type": "6310",
+        "description": "TRAPO, ETC."
+    },
+    {
+        "type": "6402",
+        "description": "OUT.CALÇADO C/SOLA EXT.E PARTE SUPERIOR DE BORRACH"
+    },
+    {
+        "type": "6403",
+        "description": "CALÇADO"
+    },
+    {
+        "type": "6404",
+        "description": "CALÇADO C/SOLA EXTER.BORRACHA,COURO,PLÁSTICO:TÉNIS"
+    },
+    {
+        "type": "6405",
+        "description": "OUTRO CALÇADO,C/PARTE SUPERIOR DE COURO,MATÉRIAS T"
+    },
+    {
+        "type": "6506",
+        "description": "CHAPÉUS,CAPACETES E ARTEFACTOS DE USO SEMELHANTE"
+    },
+    {
+        "type": "6801",
+        "description": "PARALELEPÍPEDOS"
+    },
+    {
+        "type": "6801",
+        "description": "PEDRAS DE GRANITO"
+    },
+    {
+        "type": "6802",
+        "description": "MARMORE,GRANITO,GRANITO POLIDO,E S/ OBRAS:LADRILHO"
+    },
+    {
+        "type": "6803",
+        "description": "ARDÓSIA PARA TELHADOS OU PARA FACHADAS, OUTRAS"
+    },
+    {
+        "type": "6904",
+        "description": "TIJOLOS"
+    },
+    {
+        "type": "6905",
+        "description": "TELHAS"
+    },
+    {
+        "type": "6908",
+        "description": "AZULEJOS, MOSAICOS, ETC.( DE CERÂMICA )"
+    },
+    {
+        "type": "6910",
+        "description": "ARTIGOS SANITARIOS"
+    },
+    {
+        "type": "6911",
+        "description": "LOUÇA DE PORCELANA"
+    },
+    {
+        "type": "6912",
+        "description": "LOUÇA"
+    },
+    {
+        "type": "6913",
+        "description": "ESTATUETAS E OUTROS OBJECTOS DE ORNAMENTAÇÃO(PORCE"
+    },
+    {
+        "type": "6914",
+        "description": "PRODUTOS CERAMICOS:OUTROS"
+    },
+    {
+        "type": "7001",
+        "description": "CACOS,FRAGMENTOS E OUTROS DESPERDÍCIOS DE VIDRO;VI"
+    },
+    {
+        "type": "7003",
+        "description": "VIDRO EM CHAPA"
+    },
+    {
+        "type": "7005",
+        "description": "VIDRO FLOTADO E DESBASTADO OU POLIDO, EM CHAPA/FOL"
+    },
+    {
+        "type": "7201",
+        "description": "FERRO OU AÇO EM BRUTO"
+    },
+    {
+        "type": "7204",
+        "description": "FERRO OU AÇO EM  SUCATA"
+    },
+    {
+        "type": "7212",
+        "description": "FERRO OU AÇO EM CHAPA E ARCO"
+    },
+    {
+        "type": "7214",
+        "description": "FERRO OU AÇO EM BARRA"
+    },
+    {
+        "type": "7217",
+        "description": "FERRO OU AÇO EM ARAME"
+    },
+    {
+        "type": "7303",
+        "description": "FERRO OU AÇO EM TUBOS"
+    },
+    {
+        "type": "7308",
+        "description": "CONSTRUÇÕES E SUAS PARTES:ELEMENTOS DE PONTES,JANE"
+    },
+    {
+        "type": "7309",
+        "description": "RESERVATÓRIOS, CUBAS, TONÉIS E RECIPIENTES SEMELHA"
+    },
+    {
+        "type": "7310",
+        "description": "BARRIS, TAMBORES,RESERVATÓRIOS,DE FERRO FUNDIDO OU"
+    },
+    {
+        "type": "7311",
+        "description": "RECIPIENTES PARA GASES COMPRIMIDOS OU LIQUEFEITOS,"
+    },
+    {
+        "type": "7312",
+        "description": "CORDAS,CABOS,DE FERRO/AÇO,NÃO ISOLADOS P/USOS ELÉC"
+    },
+    {
+        "type": "7323",
+        "description": "ARTEFACTOS DE USO DOMÉSTICO E SUAS PARTES,FER/AÇO("
+    },
+    {
+        "type": "7324",
+        "description": "BANHEIRAS, PIAS, LAVABOS,DE FERRO"
+    },
+    {
+        "type": "7325",
+        "description": "OUTRAS OBRAS FERRO/AÇO:P/CANALIZAÇÕES P/ESGOTOS E "
+    },
+    {
+        "type": "7326",
+        "description": "FERRO OU AÇO EM OBRA, N.D."
+    },
+    {
+        "type": "7403",
+        "description": "COBRE E SUAS LIGAS"
+    },
+    {
+        "type": "7604",
+        "description": "ALUMÍNIO EM BARRAS E PERFIS"
+    },
+    {
+        "type": "7616",
+        "description": "OUTRAS OBRAS DE ALUMÍNIO :PREGOS,PARAFUSOS,CAVILHA"
+    },
+    {
+        "type": "7901",
+        "description": "ZINCO EM BRUTO"
+    },
+    {
+        "type": "8301",
+        "description": "CADEADOS,FECHADURAS E FERROLHOS DE METAIS COMUNS"
+    },
+    {
+        "type": "8302",
+        "description": "GUARNIÇÕES,FERRAGENS E ARTIGOS SEMELHANTES, DE MET"
+    },
+    {
+        "type": "8418",
+        "description": "REFRIGERADORES, CONGELADORES, FRIGORÍFICOS E OUTRO"
+    },
+    {
+        "type": "8419",
+        "description": "SECADORES P/PROD.AGRÍCOLAS,MADEIRA,APAR.DESTILAÇÃO"
+    },
+    {
+        "type": "8426",
+        "description": "CÁBREAS,GUINDASTES OU GRUAS,PONTES ROLANTES,PÓRTIC"
+    },
+    {
+        "type": "8427",
+        "description": "EMPILHADORES E OUTROS VEÍCULOS P/MOVIMENT.DE CARGA"
+    },
+    {
+        "type": "8428",
+        "description": "OUTRAS MÁQUINAS E APAR. DE ELEVAÇÃO.ELEVADORES E M"
+    },
+    {
+        "type": "8429",
+        "description": "BULLDOZERS,ANGLEDOZERS,ESCAVADORAS,PÁS MECÂNICAS,C"
+    },
+    {
+        "type": "8431",
+        "description": "PARTES DESTINADAS ÀS MÁQUINAS DAS POSIÇÕES 84.25 A"
+    },
+    {
+        "type": "8480",
+        "description": "CAIXAS DE FUNDIÇÃO E MOLDES"
+    },
+    {
+        "type": "8485",
+        "description": "PEÇAS SEPARADAS DE MAQUINAS"
+    },
+    {
+        "type": "8501",
+        "description": "MOTORES E GERADORES,ELÉCTRICOS"
+    },
+    {
+        "type": "8503",
+        "description": "PARTES RECONHECÍVEIS PRINCIP.DESTINADAS ÀS MÁQUINA"
+    },
+    {
+        "type": "8504",
+        "description": "TRANSFORMADORES ELÉCTRICOS,CONVERSORES, BALASTROS,"
+    },
+    {
+        "type": "8609",
+        "description": "TARAS"
+    },
+    {
+        "type": "8701",
+        "description": "TRACTORES"
+    },
+    {
+        "type": "8702",
+        "description": "VEÍCULOS DE TRANSPORTE COLECTIVO"
+    },
+    {
+        "type": "8703",
+        "description": "AUTOMOVEIS DE PASSAGEIROS E SEUS ACESSÓRIOS"
+    },
+    {
+        "type": "8704",
+        "description": "VEÍCULOS AUTOMÓVEIS PARA TRANSPORTE DE MERCADORIAS"
+    },
+    {
+        "type": "8705",
+        "description": "AUTO-SOCORROS,CAMIÕES-GRUAS,VEICULOS DE COMBATE A "
+    },
+    {
+        "type": "8708",
+        "description": "PEÇAS SEPARADAS DE VEICULOS, N.D."
+    },
+    {
+        "type": "8711",
+        "description": "MOTOCICLETAS, CICLOMOTORES, E OUTROS CICLOS EQUIPA"
+    },
+    {
+        "type": "8712",
+        "description": "BICICLETAS, TRICICLOS,S/MOTOR,S/ROLAMENTOS DE ESFE"
+    },
+    {
+        "type": "8714",
+        "description": "PARTES E ACESSÓRIOS DE MOTOCICLETAS,CADEIRAS DE RO"
+    },
+    {
+        "type": "8715",
+        "description": "CARRINHOS E VEÍCULOS SEMELHANTES PARA TRANSPORTE D"
+    },
+    {
+        "type": "8716",
+        "description": "REBOQUES /SEMI-REBOQUES P/VEÍCULOS,HABITAÇÃO,ACAMP"
+    },
+    {
+        "type": "8716",
+        "description": "TRAILER (RO-RO)"
+    }
+]

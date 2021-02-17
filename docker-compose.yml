@@ -1,0 +1,11 @@
+version: '2.3'
+services:
+  tossimulator:
+    build: ./tossimulator
+    restart: always
+    working_dir: /opt/simulator
+    environment:
+      - NODE_ENV=production
+    command: "node main.js"
+    ports:
+      - "9999:3000"
