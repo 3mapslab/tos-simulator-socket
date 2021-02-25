@@ -11,6 +11,7 @@ module.exports = class SocketWorker {
     this._subscribedChannels = [];
     this.registerSocketEvents();
     ContainerSimulatorHelper.getInstance().on('container_operation', this.handleContainerOperation.bind(this));
+    this._handleContainersChannel();
   }
 
   registerSocketEvents() {
@@ -63,7 +64,8 @@ module.exports = class SocketWorker {
   }
 
   _handleContainersChannel() {
-    //find a way to send current state of containers
+    let getOccupiedCells = ContainerSimulatorHelper.getInstance().getOccupiedCells();
+    this._socket.emit(CHANNEL_NAMES.CONTAINERS, getOccupiedCells); 
   }
 
   handleContainerOperation(operation) {

@@ -158,6 +158,16 @@ class ContainerSimulatorHelper {
         }
     }
 
+    // get occupied cells on start
+    getOccupiedCells() {
+        let occupiedCells = this.cells.filter((c) => {
+            return c.containers.length > 0
+        });
+        let operation = "INITIAL_CELLS";
+        let objectToSend = { operation, occupiedCells };
+        return objectToSend;
+    }
+
     startSimulation(options) {
         console.log("Cells are loaded up. Let's now start circulating containers...");
         let operationsToSchedule = Math.floor(Math.random() * (10 - 5) + 5); //1 to 10 operations simultaneously
@@ -181,6 +191,8 @@ class ContainerSimulatorHelper {
                         break;
                     }
                     let container = new Container();
+                    container.level = cell.containers.length;
+                    container.height = (cell.containers.length) * CONTAINER_HEIGHT;
                     cell.containers.push(container);
                     containerEvent["code"] = container.info.code;
                     containerEvent["operator"] = container.info.operator;
